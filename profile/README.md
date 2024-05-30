@@ -1,4 +1,4 @@
-![Alchemyst AI Logo](https://github.com/Alchemyst-ai/.github/assets/76481787/1021e230-3cd5-468f-9732-a539b1df2422)
+![Alchemyst AI Logo](https://github.com/Alchemyst-ai/.github/assets/99157367/b17652ac-b8ea-4f83-bd7b-8eb030b5c69e)
 
 <div align="center"><i>Eliminating redundancy, one commit at a time.</i></div>
 
