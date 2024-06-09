@@ -1,6 +1,8 @@
-![Alchemyst AI Logo](https://github.com/Alchemyst-ai/.github/assets/99157367/b17652ac-b8ea-4f83-bd7b-8eb030b5c69e)
 
-<div align="center"><i>Eliminating redundancy, one commit at a time.</i></div>
+<div align="center">
+  <img src="https://github.com/Alchemyst-ai/.github/assets/99157367/b17652ac-b8ea-4f83-bd7b-8eb030b5c69e" / alt="Alchemyst AI Logo"><br />
+  <i>Eliminating redundancy, one commit at a time.</i>
+</div>
 
 ## What is Redundancy?
 From every walks of life, we encounter repetitions - in fact from the thousands of years of evolution, the human brain is naturally inclined towards repetitions for reinforced experiences. But more often than not, they consume resources that are better utilized somewhere else.
